@@ -1,0 +1,7 @@
+server:
+  port: 1303
+
+spring:
+  application:
+    name: springcloudconfig2224
+
